@@ -1,0 +1,46 @@
+# robots.txt for https://ceedcoaching.com/
+# Last updated: 2025-08-21
+
+User-agent: *
+
+# ✅ Allow main public pages
+Allow: /index.php
+Allow: /thankyou.php
+Allow: /privacy-policy.php
+Allow: /brds-terms-of-service.php
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+# ❌ Block sensitive files & directories
+Disallow: /index-old.php
+Disallow: /nidcoaching.org.zip
+Disallow: /error_log
+Disallow: /brds_crm_api.php
+Disallow: /.htaccess
+Disallow: /.ftpquota
+Disallow: /vendor/
+Disallow: /PHPMailer/
+Disallow: /old/
+Disallow: /leads/
+Disallow: /cgi-bin/
+Disallow: /brds_stealth/
+Disallow: /.well-known/
+
+# ❌ Block any backup/config/system files
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /package.json
+Disallow: /yarn.lock
+Disallow: /gulpfile.js
+Disallow: /Gruntfile.js
+Disallow: /README
+Disallow: /LICENSE
+
+# ❌ Prevent duplicate content from query strings
+Disallow: /*?*sort=
+Disallow: /*?*session=
+Disallow: /*?*replytocom=
+
+# Sitemap for SEO
+Sitemap: https://ceedcoaching.com/sitemap.xml

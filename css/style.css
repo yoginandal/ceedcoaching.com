@@ -1,0 +1,713 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+ul li {
+    list-style: none;
+}
+
+header .container-md {
+    position: relative;
+    z-index: 1;
+}
+
+header {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+}
+
+.heading_main h1{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+header::after {
+    content: "";
+    position: absolute;
+    width: 50%;
+    top: 0;
+    height: 100%;
+    left: 0;
+    background-color: #ff0000;
+}
+
+header p.p-right {
+    padding: 8px 10px;
+    font-size: 16px;
+}
+
+.header-left {
+    background-color: #ff0000;
+}
+
+.header-right {
+    text-align: end;
+    background-color: #fff;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+@media (max-width:767px) {
+    .header-left {
+        text-align: center;
+    }
+
+    header img.headerlogo {
+        width: 50%;
+        height: auto;
+    }
+
+    .header-right {
+        text-align: center;
+
+    }
+
+}
+
+/* section.banner start */
+
+.banner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding: 19px 0px 36px 0px;
+    background-image: url(..//images/bannerbg.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner .banner-left h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+.banner .banner-left h2 span.red-dot {
+    color: #ec1c24;
+    position: relative;
+
+}
+
+.banner .banner-left h2 span.red-dot::after {
+    content: "";
+    position: absolute;
+    top: 3%;
+    left: 16%;
+    border-radius: 50%;
+    width: 70%;
+    height: 16%;
+    background-color: #ff0000;
+}
+
+.banner .banner-left h3 {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 200;
+    color: #fff;
+}
+
+.banner .banner-left h3 span.banner-bottom-content {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-right: 4px;
+    position: relative;
+
+}
+
+.banner .banner-left h3 span.banner-bottom-content::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    background-color: #ec1c24;
+    z-index: -1;
+    height: 77%;
+    transform: translate(0%, -50%);
+}
+
+.banner .banner-left h3 span.banner-bottom-content::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -1000%;
+    width: 1000%;
+    background-color: #ec1c24;
+    z-index: -1;
+    height: 77%;
+    transform: translate(0%, -50%);
+
+}
+
+.banner .banner-right {
+    width: 100%;
+    max-width: 360px;
+    background-color: #a9a9a9b3;
+    padding: 15px;
+}
+
+.banner .banner-right h3 {
+    font-size: 24px;
+    margin-bottom: 22px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.banner .banner-right form input,
+.bn-form {
+    font-size: 14px;
+    margin-bottom: 18px;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.banner .banner-right .banner-form-btn {
+    font-size: 16px;
+    border: 0;
+    padding: 14px;
+    background-color: #ff4e31;
+    color: #fff;
+
+}
+
+/* section.banner end */
+/* section.welcome start */
+section.welcome {
+    padding: 16px 0px 27px;
+}
+
+section.welcome p.welcome-p {
+    font-size: 14px;
+    color: #7b7b7b;
+    padding: 18px 20px 0px 24px;
+}
+
+/* section.welcome end */
+/* section.entrance-exam  start*/
+section.entrance-exam {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+section.entrance-exam .container-md {
+    z-index: 1;
+    position: relative;
+}
+
+section.entrance-exam::after {
+    content: "";
+    position: absolute;
+    width: 36%;
+    top: 0;
+    height: 100%;
+    right: 0;
+    background-color: #ec1c24;
+}
+
+.entrance-exam-heading {
+    height: 16px;
+    display: flex;
+    width: 100%;
+}
+
+.entrance-exam-heading .entrance-exam-heading-left {
+
+    width: 50%;
+    background-color: #ec1c24;
+    margin-right: 1px;
+}
+
+.entrance-exam-heading-right {
+
+    width: 50%;
+    background-color: #000;
+}
+
+section.entrance-exam .exam-inner {
+    padding: 26px 0px;
+}
+
+section.entrance-exam .exam-pattran h3.exam-pattran-heading {
+    color: #ec1c24;
+    font-weight: 600;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+
+section.entrance-exam .exam-pattran h3.exam-pattran-Sub-heading {
+    color: #000;
+    font-weight: 900;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 34px;
+}
+
+section.entrance-exam .exam-pattran ul.phases li {
+    font-size: 12px;
+    gap: 18px;
+    font-weight: 400;
+    padding-bottom: 8px;
+}
+
+section.entrance-exam .exam-pattran ul.phases li span {
+    min-width: 90px;
+}
+
+section.entrance-exam .exam-pattran {
+    padding-left: 16px;
+}
+
+section.entrance-exam .exam-pattran .exam-pattran-p {
+    font-size: 13px;
+    font-weight: 700;
+    color: #ec1c24;
+}
+
+@media (max-width:767px) {
+    section.entrance-exam::after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        top: 0;
+        height: 100%;
+        right: 0;
+        background-color: #ec1c24;
+
+    }
+
+    .exam-inner-left {
+        background-color: #fff;
+    }
+
+    section.entrance-exam .exam-pattran {
+        padding: 34px 20px 20px 20px;
+
+    }
+}
+
+/* section.entrance-exam  end*/
+/* section.why-us start*/
+section.why-us {
+    background-color: #feedee;
+    padding: 29px 0px 10px;
+}
+
+.heading p {
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 16px;
+}
+
+.why-us .accordion-item {
+    margin-bottom: 16px;
+
+}
+
+.why-us .accordion {
+    padding: 0px;
+    margin-top: 12px;
+}
+
+.why-us .accordion-item .accordion-header button {
+
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    border-radius: 0px;
+    border-bottom-right-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+
+.why-us .accordion-item:nth-child(odd) .accordion-header button {
+    background-color: #ec1c24;
+}
+
+.why-us .accordion-item:nth-child(even) .accordion-header button {
+    background-color: #7f7f7f;
+}
+
+.accordion-button::after {
+    background-size: contain;
+    background-image: url(../images/acc-img.png);
+
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: url(../images/acc-img.png);
+    background-size: contain;
+
+}
+
+/* section.why-us end*/
+/* section.our-approch start*/
+
+section.our-approch {
+    padding: 32px 12px 52px;
+}
+
+section.our-approch .heading {
+    color: #ec1c24;
+    margin-bottom: 17px;
+}
+
+.our-approch-content-box {
+    padding: 24px 18px 16px;
+    background: #e9e6e6;
+    border-radius: 20px;
+    height: 100%;
+    max-width: 360px;
+    margin: 0 auto;
+}
+
+.our-approch-content-box h2 {
+    font-size: 16px;
+    font-weight: 800;
+    min-height: 30px;
+    color: #ec1c24;
+}
+
+.our-approch-content-box p {
+    font-size: 14px;
+
+}
+
+.red {
+    background-color: #ec1c24 !important;
+}
+
+.red h2 {
+    color: #302f2f;
+}
+
+.red p {
+
+    color: #ffffff;
+}
+
+
+
+.our-approch-content-box:hover .our-approch-content-box hr {
+    margin: 12px auto;
+    width: 80%;
+    height: 2px;
+    background-color: #302f2f;
+    color: #302f2f;
+}
+
+/* section.our-approch end*/
+section.success-stories {
+    background-color: #282828;
+    padding: 40px 0px;
+}
+
+section.success-stories .heading p {
+    color: #ec1c24;
+    padding-bottom: 32px;
+}
+
+p.success-stories-content {
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+}
+
+section.student-review {
+    background-color: #ec1c24;
+    padding: 30px 0px 26px;
+}
+
+section.student-review .heading {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+section.student-review .student-review-inner p {
+    font-size: 16px;
+    padding-right: 0px;
+    padding-top: 20px;
+}
+
+section.student-review .student-review-inner h4 {
+    font-size: 18px;
+}
+
+section.student-review .student-review-inner h5 {
+    font-size: 12px;
+}
+
+section.batch-details {
+    padding: 30px 0px 40px;
+}
+
+section.batch-details .heading {
+    color: #ec1c24;
+    margin-bottom: 20px;
+}
+
+section.batch-details .batch-details-content p:nth-child(1) {
+    padding-bottom: 10px;
+
+}
+
+section.batch-details .batch-details-content p {
+    text-align: center;
+    font-size: 14px;
+}
+
+.footer {
+    padding: 26px 0px;
+    text-align: center;
+    background-color: #ec1c24;
+}
+
+.footer h6 {
+    color: #fff;
+    font-size: 12px;
+}
+
+/* .our-approch-content-box{
+    max-width: 360px;
+} */
+@media (min-width:991px) {
+    header img.headerlogo {
+        width: 60%;
+        height: auto;
+    }
+
+    header p.p-right {
+        font-size: 20px;
+        padding: 12px;
+    }
+
+    .header-left {
+        text-align: center;
+    }
+
+    .banner {
+        padding: 52px 0px 26px 0px;
+
+    }
+
+    .banner .banner-right form input,
+    .bn-form {
+        font-size: 18px;
+    }
+
+    .banner .banner-right h3 {
+        font-size: 30px;
+        margin-bottom: 28px;
+    }
+
+    .banner .banner-left h2 {
+        font-size: 56px;
+        margin-bottom: 38px;
+    }
+
+    .banner .banner-left h3 span.banner-bottom-content {
+        font-size: 30px;
+    }
+
+    .banner .banner-left h3 {
+        font-size: 30px;
+    }
+
+    .banner .banner-right {
+        padding: 46px 27px 30px;
+    }
+
+    .banner .banner-right .banner-form-btn {
+        font-size: 20px;
+    }
+
+    section.welcome {
+        padding: 40px 0px 50px;
+    }
+
+    section.welcome p.welcome-p {
+        font-size: 18px;
+        padding: 42px 96px 0px 80px;
+    }
+
+    section.entrance-exam .exam-pattran h3.exam-pattran-heading {
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+
+    section.entrance-exam .exam-pattran h3.exam-pattran-Sub-heading {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    section.entrance-exam .exam-pattran ul.phases li {
+        font-size: 16px;
+    }
+
+    section.entrance-exam .exam-pattran {
+        padding: 100px 0px 40px 80px;
+    }
+
+    section.entrance-exam .exam-pattran .exam-pattran-p {
+        font-size: 20px;
+    }
+
+    section.why-us {
+        padding: 54px 0px 44px;
+    }
+
+    .heading p {
+        font-size: 30px;
+    }
+
+    .why-us .accordion {
+        padding: 0px 84px;
+        margin-top: 26px;
+    }
+
+    .why-us .accordion-item .accordion-header button {
+        font-size: 26px;
+    }
+
+    section.our-approch {
+        padding: 32px 0px 52px;
+    }
+
+    section.our-approch .heading {
+        margin-bottom: 54px;
+    }
+
+    .our-approch-content-box {
+        padding: 28px 18px 16px;
+    }
+
+    .our-approch-content-box h2 {
+        font-size: 28px;
+        min-height: 60px;
+    }
+
+    .our-approch-content-box p {
+        font-size: 16px;
+    }
+
+    p.success-stories-content {
+        font-size: 20px;
+    }
+
+    section.student-review {
+        background-color: #ec1c24;
+        padding: 62px 0px 26px;
+    }
+
+    section.student-review .heading {
+        color: #fff;
+        margin-bottom: 44px;
+    }
+
+    section.student-review .student-review-inner p {
+        font-size: 18px;
+        padding-right: 60px;
+    }
+
+    section.student-review .student-review-inner h4 {
+        font-size: 20px;
+    }
+
+    section.student-review .student-review-inner h5 {
+        font-size: 18px;
+    }
+
+    section.batch-details .batch-details-content p {
+        font-size: 20px;
+    }
+
+    section.batch-details {
+        padding: 52px 0px 40px;
+    }
+
+    section.batch-details .heading {
+        color: #ec1c24;
+        margin-bottom: 24px;
+    }
+
+    section.batch-details .batch-details-content p:nth-child(1) {
+        padding-bottom: 12px;
+    }
+
+    .batch-details-content {
+        padding: 0px 42px;
+    }
+
+    .footer h6 {
+        color: #fff;
+        font-size: 18px;
+    }
+}
+
+@media (min-width:768px) and (max-width:1200px) {
+    .banner .banner-left h2 {
+        font-size: 38px;
+        margin-bottom: 18px;
+    }
+
+    .banner .banner-left h3 {
+        font-size: 30px;
+    }
+
+    .banner .banner-left h3 span.banner-bottom-content {
+        font-size: 30px;
+    }
+
+    section.welcome p.welcome-p {
+        font-size: 14px;
+        padding: 0px 36px 0px 0px;
+    }
+
+    section.entrance-exam .exam-pattran {
+        padding: 72px 20px 20px 20px;
+    }
+
+    .our-approch-content-box h2 {
+        font-size: 24px;
+    }
+
+    .our-approch-content-box p {
+        font-size: 16px;
+    }
+
+    section.entrance-exam .exam-pattran h3.exam-pattran-heading {
+        font-size: 34px;
+    }
+
+    section.entrance-exam .exam-pattran h3.exam-pattran-Sub-heading {
+        font-size: 27px;
+    }
+
+    section.entrance-exam .exam-pattran ul.phases li {
+        font-size: 16px;
+    }
+}
+
+@media (max-width:575px) {
+    header img.headerlogo {
+        width: 80%;
+        height: auto;
+    }
+}
+
+/*  */
+section.thankyou {
+    height: calc(100vh - 161px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,8 @@
+[23-May-2025 10:33:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/t54kurnucykm/public_html/ceedcoaching.com/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/t54kurnucykm/public_html/ceedcoaching.com/PHPMailer/src/OAuth.php on line 36
+[23-May-2025 10:34:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/t54kurnucykm/public_html/ceedcoaching.com/PHPMailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/t54kurnucykm/public_html/ceedcoaching.com/PHPMailer/src/OAuth.php on line 36
