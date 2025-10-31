@@ -823,10 +823,11 @@
                 <!-- For desktop view -->
                 <!-- Stats Card -->
                 <div class="card_result stats-card_result">
-                    <h2 class="stats-title_result">CEED</h2>
-                    <h3 class="stats-number_result">1405</h3>
-                    <h4 class="stats-text_result">Students Qualified UCEED & CEED 2024</h4>
-                    <div class="total-stats_result">3389 Total Qualified UCEED/CEED</div>
+                    <h2 class="stats-title_result">IIT</h2>
+                    <h3 class="stats-number_result">1520</h3>
+                    <h4 class="stats-text_result">Students Qualified UCEED & CEED 2025</h4>
+                    <div class="total-stats_result">4909 Total Qualified UCEED / CEED Since 2005
+                    </div>
                 </div>
                 <!-- Student Card 1 -->
                 <div class="card_result student-card_result">
@@ -834,17 +835,17 @@
                     <div class="profile-wrapper_result">
                         <div class="profile-ring_result"></div>
                         <!-- <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arun-surya-m.png" alt="Arun Surya" class="profile-pic_result"> -->
-                        <img src="images/arun-surya-n.png" alt="Arun Surya" class="profile-pic_result">
+                        <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/shreyansh-agarwal.jpg" alt="Shreyansh Agarwal" class="profile-pic_result">
                     </div>
                     <div class="student-info_result">
-                        <h3 class="student-name_result">Arun Surya</h3>
-                        <div class="student-city_result">Bangalore</div>
-                        <div class="student-program_result">-</div>
+                        <h3 class="student-name_result">Shreyansh Agarwal</h3>
+                        <div class="student-city_result">Delhi</div>
+                        <div class="student-program_result">B.Des-IIT Bombay</div>
                         <div class="rank-badge_result">
                             <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">05</span>
+                            <span class="rank-number_result">01</span>
                         </div>
-                        <div class="nid-year_result">CEED 2024</div>
+                        <div class="nid-year_result">UCEED 2025</div>
                     </div>
                 </div>
                 <!-- Student Card 2 -->
@@ -853,17 +854,17 @@
                     <div class="profile-wrapper_result">
                         <div class="profile-ring_result"></div>
                         <!-- <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arundhati-rana.png" alt="Arundhati Rana" class="profile-pic_result"> -->
-                        <img src="images/arundhati-rana-n.png" alt="Arundhati Rana" class="profile-pic_result">
+                        <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/kumar-navneet.jpg" alt="Kumar Navneet" class="profile-pic_result">
                     </div>
                     <div class="student-info_result">
-                        <h3 class="student-name_result">Arundhati Rana</h3>
-                        <div class="student-city_result">New Delhi</div>
-                        <div class="student-program_result">-</div>
+                        <h3 class="student-name_result">Kumar Navneet</h3>
+                        <div class="student-city_result">Jamshedpur</div>
+                        <div class="student-program_result">B.Des-IIT Bombay</div>
                         <div class="rank-badge_result">
                             <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">15</span>
+                            <span class="rank-number_result">01</span>
                         </div>
-                        <div class="nid-year_result">CEED 2024</div>
+                        <div class="nid-year_result">UCEED 2025</div>
                     </div>
                 </div>
                 <!-- Student Card 3 -->
@@ -871,18 +872,18 @@
                     <div class="card-header_result"></div>
                     <div class="profile-wrapper_result">
                         <div class="profile-ring_result"></div>
-                        <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/nikhil-manoj.png"
-                            alt="Nikhil Manoj" class="profile-pic_result">
+                        <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/maharudra-sunil-mukhare.jpg"
+                            alt="Maharudra Mukhare" class="profile-pic_result">
                     </div>
                     <div class="student-info_result">
-                        <h3 class="student-name_result">Nikhil Manoj</h3>
-                        <div class="student-city_result">Kochi</div>
-                        <div class="student-program_result">-</div>
+                        <h3 class="student-name_result">Maharudra Mukhare</h3>
+                        <div class="student-city_result">Maharashtra</div>
+                        <div class="student-program_result">B.Des-IIT Bombay</div>
                         <div class="rank-badge_result">
                             <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">17</span>
+                            <span class="rank-number_result">04</span>
                         </div>
-                        <div class="nid-year_result">CEED 2024</div>
+                        <div class="nid-year_result">UCEED 2025</div>
                     </div>
                 </div>
             </div>
@@ -890,63 +891,64 @@
             <div class="mobile-slider-track_result" id="sliderTrack" style="display: none;">
                 <!-- Stats Card -->
                 <div class="card_result stats-card_result">
-                    <h2 class="stats-title_result">CEED</h2>
-                    <h3 class="stats-number_result">1405</h3>
-                    <h4 class="stats-text_result">Students Qualified UCEED & CEED 2024</h4>
-                    <div class="total-stats_result">3389 Total Qualified UCEED/CEED</div>
+                    <h2 class="stats-title_result">IIT</h2>
+                    <h3 class="stats-number_result">1520</h3>
+                    <h4 class="stats-text_result">Students Qualified UCEED & CEED 2025</h4>
+                    <div class="total-stats_result">4909 Total Qualified UCEED / CEED Since 2005
+                    </div>
                 </div>
                 <!-- Student Card 1 -->
                 <div class="card_result student-card_result">
                     <div class="card-header_result"></div>
                     <div class="profile-wrapper_result">
-                        <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arun-surya-m.png"
-                            alt="Arun Surya" class="profile-pic_result">
+                        <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/shreyansh-agarwal.jpg"
+                            alt="Shreyansh Agarwal" class="profile-pic_result">
                     </div>
                     <div class="student-info_result">
-                        <h3 class="student-name_result">Arun Surya</h3>
-                        <div class="student-city_result">Bangalore</div>
-                        <div class="student-program_result">-</div>
+                        <h3 class="student-name_result">Shreyansh Agarwal</h3>
+                        <div class="student-city_result">Delhi</div>
+                        <div class="student-program_result">B.Des-IIT Bombay</div>
                         <div class="rank-badge_result">
                             <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">05</span>
+                            <span class="rank-number_result">01</span>
                         </div>
-                        <div class="nid-year_result">CEED 2024</div>
+                        <div class="nid-year_result">UCEED 2025</div>
                     </div>
                 </div>
                 <!-- Student Card 2 -->
                 <div class="card_result student-card_result">
                     <div class="card-header_result"></div>
                     <div class="profile-wrapper_result">
-                        <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arundhati-rana.png"
-                            alt="Arundhati Rana" class="profile-pic_result">
+                        <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/kumar-navneet.jpg"
+                            alt="Kumar Navneet" class="profile-pic_result">
                     </div>
                     <div class="student-info_result">
-                        <h3 class="student-name_result">Arundhati Rana</h3>
-                        <div class="student-city_result">New Delhi</div>
-                        <div class="student-program_result">-</div>
+                        <h3 class="student-name_result">Kumar Navneet</h3>
+                        <div class="student-city_result">Jamshedpur</div>
+                        <div class="student-program_result">B.Des-IIT Bombay</div>
                         <div class="rank-badge_result">
                             <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">15</span>
+                            <span class="rank-number_result">01</span>
                         </div>
-                        <div class="nid-year_result">CEED 2024</div>
+                        <div class="nid-year_result">UCEED 2025</div>
                     </div>
                 </div>
                 <!-- Student Card 3 -->
                 <div class="card_result student-card_result">
                     <div class="card-header_result"></div>
                     <div class="profile-wrapper_result">
-                        <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/nikhil-manoj.png"
+                        <img src="https://brdsresult.com/wp-content/uploads/resultdata/2025/iit/images/maharudra-sunil-mukhare.jpg"
                             alt="Nikhil Manoj" class="profile-pic_result">
                     </div>
                     <div class="student-info_result">
-                        <h3 class="student-name_result">Nikhil Manoj</h3>
-                        <div class="student-city_result">Kochi</div>
-                        <div class="student-program_result">-</div>
+                        <h3 class="student-name_result">Maharudra Mukhare</h3>
+                        <div class="student-city_result">Maharashtra</div>
+                        <div class="student-program_result">B.Des-IIT Bombay</div>
                         <div class="rank-badge_result">
                             <span class="rank-label_result">All India Rank</span>
-                            <span class="rank-number_result">17</span>
+                            <span class="rank-number_result">04</span>
                         </div>
-                        <div class="nid-year_result">CEED 2024</div>
+                        <div class="nid-year_result">UCEED 2025</div>
                     </div>
                 </div>
             </div>
