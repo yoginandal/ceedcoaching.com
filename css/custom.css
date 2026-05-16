@@ -77,9 +77,9 @@ h6 {
 section {
   margin: 0 0 10px 0;
 }
-.fas {
+/*.fas {
   color: #e31e24 !important;
-}
+}*/
 .fas.cus_fa {
   color: #fefefe !important;
 }
@@ -2249,6 +2249,7 @@ section.entrance_exam {
   --shadow: 0 5px 15px rgba(237, 28, 36, 0.15);
   --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
   margin-top: 10px;
+  padding: 0px;
 }
 .nid_tab_container {
   max-width: 1200px;
@@ -2733,7 +2734,7 @@ section.entrance_exam {
     height: 500px;
   margin-top: -4rem;
 }
-  }
+
   .nid_tab_tabs_container {
     max-height: 400px;
     margin-top: 2rem;
@@ -2775,7 +2776,7 @@ section.entrance_exam {
   .nid_tab_stats_grid {
     grid-template-columns: 1fr;
   }
-}
+  }
 @media (max-width: 480px) {
   .nid_tab_section_header {
     flex-direction: column;

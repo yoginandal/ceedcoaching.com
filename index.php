@@ -4,26 +4,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top CEED Coaching for M.Des Aspirants | Rathore Design Institute</title>
+    <title>CEED Coaching 2026-27 | India's Top Results | 1520+ Selections</title>
     <meta name="google-site-verification" content="AB0a1cA4zkM4DXlhdMUKGc3V0GirLuXigfIYhtjd9Pk" />
-    <meta name="title" content="Top CEED Coaching Classes | Crack CEED 2026 with Experts">
+    <meta name="title" content="CEED Coaching 2026-27 | India's Top Results | 1520+ Selections">
     <meta name="description"
-        content="Get expert CEED coaching for IIT Design entrance exam. Join India's leading institute for CEED preparation with comprehensive study material & expert faculty.">
+        content="Unlock your postgraduate design career with specialized CEED Coaching from IIT & NID alumni. Get personalized mentorship for M.Des entrance exam, Part A & Part B preparation, and portfolio guidance. Enroll for the 2026-27 session now.">
     <link rel="icon" href="images/brds.png" type="image/svg+xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800;900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
-    <link rel="stylesheet" href="css/minified.css?v=3.1">
-    <link rel="stylesheet" href="/css/custom.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="css/minified.css?v=3.3">
+    <link rel="stylesheet" href="css/custom.css?v=<?php echo time(); ?>">
     <script src="js/jquery.min.js"></script>
     <link rel="canonical" href="https://ceedcoaching.com" />
     <meta name="robots" content="index, follow" />
     <meta name="Revisit-after" content="7 Days" />
     <meta property="og:type" content="website">
 
-    <meta property="og:title" content="Top CEED Coaching Classes | Crack CEED 2026 with Experts">
+    <meta property="og:title" content="CEED Coaching 2026-27 | India's Top Results | 1520+ Selections">
 
     <meta property="og:url" content="https://ceedcoaching.com/">
 
@@ -32,6 +32,89 @@
     <meta property="og:description"
         content="Get expert CEED coaching for IIT Design entrance exam. Join India's leading institute for CEED preparation with comprehensive study material & expert faculty.">
     <link rel="alternate" href="https://ceedcoaching.com" hreflang="en-IN">
+
+      <!-- Schema Markup for FAQ -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "EducationalOrganization",
+      "name": "CEED Coaching",
+      "alternateName": "Ceed coaching",
+      "url": "https://ceedcoaching.com/",
+      "logo": "https://ceedcoaching.com/images/headerlogo.png"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "What is the CEED Entrance Exam and why is it important?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The CEED is conducted by Indian Institute of Technology Bombay for postgraduate design programs (M.Des). It evaluates advanced design thinking and creativity."
+        }
+      },{
+        "@type": "Question",
+        "name": "What is the CEED exam pattern?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "CEED includes Part A (objective, computer-based) and Part B (drawing and design questions), focusing on both analytical and creative skills."
+        }
+      },{
+        "@type": "Question",
+        "name": "What courses are offered for CEED preparation?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "There are advanced foundation, regular, and crash courses, tailored for graduates aiming for design specialization."
+        }
+      },{
+        "@type": "Question",
+        "name": "What is included in CEED coaching training?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Coaching includes design thinking, sketching, portfolio guidance, and studio test preparation, along with mock exams."
+        }
+      },{
+        "@type": "Question",
+        "name": "Is online CEED coaching effective?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, especially for working professionals. It allows flexible learning with expert mentorship."
+        }
+      },{
+        "@type": "Question",
+        "name": "How does CEED coaching help students succeed?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It provides clarity in design concepts, portfolio building, and exam strategy, which are critical at the postgraduate level."
+        }
+      },{
+        "@type": "Question",
+        "name": "Is BRDS good for CEED preparation in 2026?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "BRDS is a strong option due to its focus on advanced design skills and portfolio preparation."
+        }
+      },{
+        "@type": "Question",
+        "name": "Can BRDS help me succeed in CEED 2026?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, through structured guidance, mock tests, and portfolio reviews, students build confidence and readiness."
+        }
+      },{
+        "@type": "Question",
+        "name": "What is the batch size at BRDS coaching?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Batch sizes are moderate, allowing personalized mentoring and feedback on design work."
+        }
+      }]
+    }
+    </script>
     <script>
         jQuery(document).ready(function () {
             url = new URL(window.location.href);
@@ -54,7 +137,7 @@
             }
         });
     </script>
-    <!-- Google tag (gtag.js) -->
+     <!--Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-QF56WX8800"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -71,17 +154,22 @@
             'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-WSZX8D67');</script> -->
     <!-- End Google Tag Manager -->
+    
+     
 
-    <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-WVJ2X926');</script>
-    <!-- End Google Tag Manager -->
+<!-- Google Tag Manager --> 
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], 
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); 
+
+})(window,document,'script','dataLayer','GTM-5MWX5WDT');</script> 
+
+<!-- End Google Tag Manager --> 
 
 
     <style>
@@ -182,53 +270,17 @@
     <!-- Google Tag Manager (noscript) -->
     <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSZX8D67" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
     <!-- End Google Tag Manager (noscript) -->
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVJ2X926" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
+    <!-- Google Tag Manager (noscript) --> 
 
-    <header>
-        <div class="container-md">
-            <div class="row align-items-center">
-                <div class="col-md-6 col-12 p-0">
-                    <div class="header-left"><img src="images/headerlogo.png" alt="headerlogo" class="headerlogo">
-                    </div>
-                </div>
-                <!-- <div class="col-md-6 col-12 header-right p-0">
-                    <p class="p-right mb-0">CEED Entrance Coaching 
-</p>
-                </div> -->
-                <div class="col-md-6 col-12 header-right p-0" id="header-right-nift">
-                    <p class="p-right mb-0" style="
-                        background: linear-gradient(45deg, #ff3333, #ee0404);
-                        -webkit-background-clip: text;
-                        -webkit-text-fill-color: transparent;
-                        font-weight: 600;
-                        font-size: 18px;
-                        padding: 12px 15px;
-                        animation: pulse 2s infinite;
-                       
-                    
-                    ">India's No. 1 Design Coaching Institute</p>
-                    <style>
-                        @keyframes pulse {
-                            0% {
-                                transform: scale(1);
-                            }
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5MWX5WDT" 
 
-                            50% {
-                                transform: scale(1.05);
-                            }
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
 
-                            100% {
-                                transform: scale(1);
-                            }
-                        }
-                    </style>
-                </div>
-            </div>
-        </div>
-    </header>
+<!-- End Google Tag Manager (noscript) -->
+
+    <?php include 'header.php'; ?>
+
     <section class="banner">
         <div class="container position-relative z-1">
             <div class="row gy-4 align-items-center">
@@ -1155,22 +1207,18 @@
                     <div class="nid_tab_tab_pane active" id="about">
                         <h3 class="nid_tab_tab_title">About Common Entrance Exam for Design (CEED)</h3>
                         <p class="nid_tab_tab_description">
-                            <span class="nid_tab_highlight">Common Entrance Exam for Design (CEED)</span> is
-                            conducted
-                            to assess the candidate’s aptitude for design involving visual perception ability,
-                            drawing
-                            skills, logical reasoning, creativity, communication, and problem solving skills. CEED
-                            is
-                            conducted by IIT Bombay.
-                            Qualifying in CEED alone does not guarantee admission to any of these programmes.
-                            Admitting
-                            institutes may conduct further tests and/or interviews for the final
-                            selection/admission.
+                            <span class="nid_tab_highlight">Common Entrance Examination for Design (CEED)</span> is a national-level entrance examination administered by <strong>IIT Bombay</strong> on behalf of the Ministry of Education, Government of India. It is the entry point to <strong>Master of Design (M.Des)</strong> and <strong>PhD programs</strong> at leading design schools in India including IISc Bangalore, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Gandhinagar, IIT Jodhpur, and IIITDM Jabalpur, among <strong>25+ participating institutes</strong>.
+                        </p>
+                        <p class="nid_tab_tab_description">
+                            CEED assesses applicants in the domain of <strong>visual perception, design aptitude, creativity, drawing capability, analytical reasoning, and problem-solving capability</strong>. The exam is conducted once a year in January and consists of two parts: <strong>Part A</strong> (computer-based, objective) and <strong>Part B</strong> (paper-based, subjective). Part B answer booklets are only graded for candidates who pass the Part A cutoff.
+                        </p>
+                        <p class="nid_tab_tab_description">
+                            <strong>Important:</strong> The final score is computed as <em>Final Score = 0.25 × Part A Marks + 0.75 × Part B Marks</em>, making Part B preparation the most crucial component. There is no age limit or attempt constraint for CEED. However, the CEED score is valid only for one year after result declaration. Qualifying CEED does not guarantee admission — candidates must individually apply to participating institutes and pass through additional rounds including portfolio review and personal interviews.
                         </p>
                     </div>
                     <!-- Date Tab -->
                     <div class="nid_tab_tab_pane" id="date">
-                        <h3 class="nid_tab_tab_title">Important Dates for CEED Admission 2025-26</h3>
+                        <h3 class="nid_tab_tab_title">Important Dates for CEED 2025-26 (CEED 2026)</h3>
                         <div class="nid_tab_info_table_wrapper">
                             <table class="nid_tab_info_table">
                                 <thead>
@@ -1181,28 +1229,52 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td><strong>Application Start Date</strong></td>
-                                        <td>October 01, 2024</td>
+                                        <td><strong>Application Portal Opens</strong></td>
+                                        <td>1 October 2025</td>
                                     </tr>
                                     <tr>
-                                        <td><strong>Last Date to Apply (Regular)</strong></td>
-                                        <td>October 31, 2024</td>
+                                        <td><strong>Last Date to Apply (Regular Fee)</strong></td>
+                                        <td>31 October 2025 (11:55 PM)</td>
                                     </tr>
                                     <tr>
                                         <td><strong>Last Date to Apply (With Late Fee)</strong></td>
-                                        <td>November 08, 2024</td>
+                                        <td>7 November 2025 (5:00 PM)</td>
                                     </tr>
                                     <tr>
                                         <td><strong>Admit Card Release</strong></td>
-                                        <td>January 03, 2025</td>
+                                        <td>2 January 2026 (1:00 PM)</td>
                                     </tr>
                                     <tr>
-                                        <td><strong>CEED Exam Date</strong></td>
-                                        <td>January 19, 2025</td>
+                                        <td><strong>Last Date to Fix Admit Card Discrepancies</strong></td>
+                                        <td>8 January 2026 (5:00 PM)</td>
                                     </tr>
                                     <tr>
-                                        <td><strong>Result Announcement</strong></td>
-                                        <td>March 05, 2025</td>
+                                        <td><strong>CEED 2026 Exam</strong></td>
+                                        <td>18 January 2026 (Sunday), 9:00 AM – 12:00 Noon</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Provisional Answer Key (Part A)</strong></td>
+                                        <td>20 January 2026</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Final Answer Key (Part A)</strong></td>
+                                        <td>28 January 2026</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Part A Cutoff Released</strong></td>
+                                        <td>5 February 2026</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Result Declared</strong></td>
+                                        <td>4 March 2026</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Scorecard Available for Download</strong></td>
+                                        <td>10 March 2026 – 31 July 2026</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Institute-level Counselling Begins</strong></td>
+                                        <td>From March 2026 (institute-wise)</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -1210,51 +1282,47 @@
                     </div>
                     <!-- Pattern Tab -->
                     <div class="nid_tab_tab_pane" id="pattern">
-                        <h3 class="nid_tab_tab_title">CEED Course Selection Pattern</h3>
+                        <h3 class="nid_tab_tab_title">CEED Entrance Exam Pattern</h3>
                         <p class="nid_tab_tab_description">
-                            CEED 2025 exam uses English as a medium of instruction. The CEED exam pattern is such
-                            that
-                            the test consists of two parts, which are, Part A and Part B. Both the parts are
-                            conducted
-                            on the same day and aspirants need to appear for both the exams on the given date and
-                            time.
+                            The CEED 2026 exam is conducted in a single session — <strong>9:00 AM to 12:00 Noon</strong> — and consists of two mandatory parts that all candidates must attempt.
                         </p>
                         <div class="nid_tab_info_card nid_tab_fade_in_left">
-                            <h4 class="nid_tab_info_card_title"><i class="fas fa-graduation-cap"></i>Course
-                                Selection
-                                Guide</h4>
+                            <h4 class="nid_tab_info_card_title"><i class="fas fa-laptop"></i> Part A — Computer-Based Test (CBT) | 1 hour | 9:00 AM – 10:00 AM</h4>
+                            <p>Part A is an objective-type online screening test with three question types:</p>
                             <ul class="nid_tab_info_list">
-                                <li><strong>NOTE</strong> - Part A of CEED 2025 will be considered as a screening
-                                    exam.
-                                    Thus, students who have been shortlisted in this test will be evaluated for Part
-                                    B
-                                    of the exam. However, only the scores of candidates in Part B will be used to
-                                    prepare the merit list for CEED 2025.</li>
-                                <li><strong>CEED Score</strong> - The final CEED score of candidates is determined
-                                    by
-                                    giving 25% weightage to marks obtained by candidates in Part A and the remaining
-                                    75%
-                                    weightage is determined basis scores obtained in CEED Part B exam.</li>
-
+                                <li><strong>NAT (Numerical Answer Type):</strong> 10 questions — 3 marks each, no negative marking</li>
+                                <li><strong>MSQ (Multiple Select Question):</strong> 10 questions — 3 marks each, no negative marking</li>
+                                <li><strong>MCQ (Multiple Choice Question):</strong> 21 questions — 2 marks each, negative marking applies</li>
                             </ul>
+                            <p><strong>Total:</strong> 41 questions | Part A contributes <strong>25%</strong> to the final CEED score. Candidates must score above the Part A cutoff for their Part B to be evaluated.</p>
+                        </div>
+                        <div class="nid_tab_info_card nid_tab_fade_in_left" style="margin-top: 20px;">
+                            <h4 class="nid_tab_info_card_title"><i class="fas fa-pencil-alt"></i> Part B — Paper-Based Subjective Test | 2 hours | 10:00 AM – 12:00 Noon</h4>
+                            <p>Part B consists of <strong>5 descriptive questions worth 20 marks each (total 100 marks)</strong>. It tests design thinking, drawing, creative writing, and problem-solving. Question types include figure drawing, product design/redesign, visual composition, design scenario, and written expression. There is no negative marking in Part B.</p>
+                            <p>Part B contributes <strong>75%</strong> to the final CEED score — making drawing and creative ability the most important skills to develop.</p>
+                        </div>
+                        <div class="nid_tab_info_card nid_tab_shimmer" style="margin-top: 20px;">
+                            <h4 class="nid_tab_info_card_title"><i class="fas fa-calculator"></i> Final Score Formula</h4>
+                            <p><strong>Final Score = 0.25 × Part A Marks + 0.75 × Part B Marks</strong></p>
+                            <p>Candidates must bring their own drawing materials — pens, pencils, and colours (no electronic devices allowed).</p>
                         </div>
                     </div>
                     <!-- Application Form Tab -->
                     <div class="nid_tab_tab_pane" id="application">
-                        <h3 class="nid_tab_tab_title">CEED 2025 Application Form</h3>
+                        <h3 class="nid_tab_tab_title">CEED 2026 Application Form</h3>
                         <p class="nid_tab_tab_description">
-                            The application process for CEED 2025 is completely online. Visit the official CEED
-                            admissions website to apply.
+                            The CEED 2026 application process was completely online at the official IIT Bombay admission portal: <strong>ceed.iitb.ac.in</strong>. Candidates were required to choose three exam city preferences at the time of registration. The exam was held across <strong>27 cities</strong> including Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Jaipur, Kolkata, Mumbai, Pune, and more.
                         </p>
                         <div class="nid_tab_info_card nid_tab_shimmer">
-                            <h4 class="nid_tab_info_card_title"><i class="fas fa-exclamation-circle"></i> Important
-                                Note
-                            </h4>
-                            <p>Applications for CEED 2025 will open in October 2025. Keep checking the official
-                                website
-                                for updates. BRDS helps you prepare a flawless application to maximize your chances
-                                of
-                                selection.</p>
+                            <h4 class="nid_tab_info_card_title"><i class="fas fa-rupee-sign"></i> Application Fee</h4>
+                            <ul class="nid_tab_info_list">
+                                <li><strong>General / OBC-NCL / EWS:</strong> ₹3,800</li>
+                                <li><strong>SC / ST / PwD / Female (all categories):</strong> ₹1,900</li>
+                            </ul>
+                        </div>
+                        <div class="nid_tab_info_card nid_tab_shimmer" style="margin-top: 20px;">
+                            <h4 class="nid_tab_info_card_title"><i class="fas fa-exclamation-circle"></i> Important Note</h4>
+                            <p><strong>CEED 2026 registrations are now closed.</strong> The next cycle — <strong>CEED 2027</strong> — is expected to open for applications in October 2026 at ceed.iitb.ac.in. BRDS helps you start early preparation so you are fully ready when the next application window opens.</p>
                         </div>
                         <div style="text-align: center; margin-top: 30px;">
                             <a href="#form-box" class="nid_tab_register_btn">
@@ -1319,43 +1387,46 @@
                     <div class="nid_tab_tab_pane" id="result">
                         <h3 class="nid_tab_tab_title">About CEED Result</h3>
                         <p class="nid_tab_tab_description">
-                            The CEED Results 2025 will be declared through online mode only. The scorecard is
-                            considered
-                            valid for the current year only. The candidate needs to log in to the official website
-                            and
-                            enter their registered details to check their result of CEED. The scorecard will include
-                            all
-                            relevant information, including the qualifying status.
+                            The CEED 2026 result was declared on <strong>4 March 2026</strong> on the official website <strong>ceed.iitb.ac.in</strong>. Candidates can log in using their registered email ID and password to download their scorecard. The scorecard is available for download from <strong>10 March 2026 to 31 July 2026</strong> and is valid for one year from the date of result declaration.
+                        </p>
+                        <p class="nid_tab_tab_description">
+                            Part A marks are displayed for all candidates who appeared in CEED 2026. Part B marks are shown only for candidates whose Part B answer books were evaluated (i.e., those who cleared the Part A cutoff). Only shortlisted candidates are assigned a merit rank. After results, candidates must apply directly to each participating institute through the respective institute's admission portal. <strong>IIT Bombay does not conduct joint seat allotment for CEED</strong> — all counselling is managed at the institute level.
                         </p>
                         <div class="nid_tab_info_card nid_tab_shimmer">
                             <h4 class="nid_tab_info_card_title"><i class="fas fa-medal"></i> BRDS Success Story</h4>
-                            <p>BRDS has consistently produced outstanding results in CEED admissions. Our
-                                specialized
-                                coaching methodology, expert faculty, and comprehensive study materials have helped
-                                hundreds of students realize their dreams of studying at CEED.</p>
+                            <p>BRDS has consistently produced outstanding results in CEED and UCEED admissions combined. With <strong>1,520+ students qualifying CEED and UCEED in 2025</strong> — including <strong>84 in the Top 100</strong> — and a total of <strong>4,909 qualified students since 2005</strong>, BRDS is India's highest result-producing coaching institute for CEED. Our specialized coaching methodology, expert IIT and NID alumni faculty, comprehensive Part A and Part B study materials, and focused drawing practice have helped hundreds of students earn admission to IITs and IISc for their M.Des programs.</p>
                         </div>
-                        <h4 class="nid_tab_tab_title">BRDS CEED 2024 Results</h4>
-                        <div class="nid_tab_stats_grid">
+                        <h4 class="nid_tab_tab_title">BRDS CEED & UCEED 2025 Results</h4>
+                        <div class="nid_tab_stats_grid" >
                             <div class="nid_tab_stats_card nid_tab_fade_in_up" style="animation-delay: 0.1s;">
-                                <div class="nid_tab_stats_header">3389</div>
+                                <div class="nid_tab_stats_header">1,520</div>
                                 <div class="nid_tab_stats_content">
-                                    <div class="nid_tab_stats_label">qualified students through UCEED & CEED since
-                                        2005
-                                    </div>
+                                    <div class="nid_tab_stats_label">BRDS Students Qualified UCEED & CEED 2025</div>
                                 </div>
                             </div>
                             <div class="nid_tab_stats_card nid_tab_fade_in_up" style="animation-delay: 0.2s;">
-                                <div class="nid_tab_stats_header black">1405</div>
+                                <div class="nid_tab_stats_header black">1,276</div>
                                 <div class="nid_tab_stats_content">
-                                    <div class="nid_tab_stats_label">Students Qualified UCEED & CEED 2024</div>
+                                    <div class="nid_tab_stats_label">BRDS Students Qualified UCEED 2025</div>
                                 </div>
                             </div>
                             <div class="nid_tab_stats_card nid_tab_fade_in_up" style="animation-delay: 0.3s;">
-                                <div class="nid_tab_stats_header">90</div>
+                                <div class="nid_tab_stats_header">244</div>
                                 <div class="nid_tab_stats_content">
-                                    <div class="nid_tab_stats_label">students are in Top 100</div>
+                                    <div class="nid_tab_stats_label">BRDS Students Qualified CEED 2025</div>
                                 </div>
                             </div>
+                            <div class="nid_tab_stats_card nid_tab_fade_in_up" style="animation-delay: 0.4s;">
+                                <div class="nid_tab_stats_header">114</div>
+                                <div class="nid_tab_stats_content">
+                                    <div class="nid_tab_stats_label">BRDS Students Selected in IIT 2025</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="text-align: center; margin-top: 20px;">
+                            <a href="https://rathoredesign.com/brds-result/iit-ceed-uceed/" target="_blank" class="nid_tab_register_btn">
+                                <i class="fas fa-external-link-alt"></i> View Results
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -2019,417 +2090,143 @@
     </head>
 
     <body>
-        <footer class="footer">
-            <div class="container_footer">
-                <div class="footer-title-container">
-                    <h2 class="footer-title">
-                        BRDS CENTRES IN INDIA
-                    </h2>
-                    <p class="footer-subtitle">Find your nearest design education center</p>
-                </div>
-                <div class="location-search">
-                    <div class="search-container">
-                        <i class="fas fa-search search-icon"></i>
-                        <input type="text" class="search-input" placeholder="Search for a location..."
-                            id="locationSearch">
-                    </div>
-                </div>
-                <div class="footer-columns">
-                    <div class="location-block" data-city="ahmedabad">
-                        <h4 class="location-title">AHMEDABAD : 98250 57598</h4>
-                        <ul class="location-list">
-                            <li>Drive in Road <a
-                                    href="https://www.google.co.in/maps/place/BRDS/@23.0461924,72.5352461,15z/data=!4m5!3m4!1s0x0:0xb169d53bd89649b0!8m2!3d23.0461924!4d72.5352461"
-                                    class="direction-link" data-location="BRDS Drive in Road, Ahmedabad">( Get Direction
-                                    )</a></li>
-                            <li>Bopal <a
-                                    href="https://www.google.co.in/maps/place/Bhanwar+Rathore+Design+Studio+(BRDS)/@23.026938,72.477186,15z/data=!4m2!3m1!1s0x0:0x2ad71d6269e49720?sa=X&ved=0ahUKEwjJv-i4poHWAhXCtY8KHawODw0Q_BIIejAK"
-                                    class="direction-link" data-location="BRDS Bopal, Ahmedabad">( Get Direction )</a>
-                            </li>
-                            <li>Chandkheda <a href="https://g.co/kgs/CbcyKL" class="direction-link"
-                                    data-location="BRDS Chandkheda, Ahmedabad">( Get Direction )</a></li>
-                            <li>Maninagar <a
-                                    href="https://www.google.co.in/maps/place/Bhanwar+Rathore+Design+Studio+(BRDS)/@22.9969463,72.605034,15z/data=!4m5!3m4!1s0x0:0xa3ce81c45437c505!8m2!3d22.9969463!4d72.605034"
-                                    class="direction-link" data-location="BRDS Maninagar, Ahmedabad">( Get Direction
-                                    )</a></li>
-                            <li>Nikol <a href="https://maps.app.goo.gl/VTLBHhn62Mu59vbD6" class="direction-link"
-                                    data-location="BRDS Nikol, Ahmedabad">( Get Direction )</a></li>
-                            <li>Satellite <a
-                                    href="https://www.google.co.in/maps/place/Bhanwar+Rathore+Design+Studio+(BRDS)/@23.026717,72.523424,15z/data=!4m5!3m4!1s0x0:0x797f4ceda4d91bfc!8m2!3d23.026717!4d72.523424"
-                                    class="direction-link" data-location="BRDS Satellite, Ahmedabad">( Get Direction
-                                    )</a></li>
-                            <li>Science City Road <a href="https://goo.gl/maps/sUM7FD5zPKzybCyMA" class="direction-link"
-                                    data-location="BRDS Science City Road, Ahmedabad">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="pune">
-                        <h4 class="location-title">PUNE : 99786 57598</h4>
-                        <ul class="location-list">
-                            <li>M. G. Road <a
-                                    href="https://www.google.co.in/maps/place/Bhanwar+Rathore+Design+Studio+(BRDS)/@18.5153304,73.8764892,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc2c04f38d2187f:0x1d8322a8a5c7143c!8m2!3d18.5153304!4d73.8786779"
-                                    class="direction-link" data-location="BRDS M. G. Road, Pune">( Get Direction )</a>
-                            </li>
-                            <li>Law College Road <a
-                                    href="https://www.google.co.in/maps/place/Bhanwar+Rathore+Design+Studio+(BRDS)/@18.514489,73.8266803,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc2c05c32812921:0x6e1089fe72fb1ed3!8m2!3d18.514489!4d73.828869"
-                                    class="direction-link" data-location="BRDS Law College Road, Pune">( Get Direction
-                                    )</a></li>
-                            <li>Chinchwad <a
-                                    href="https://www.google.com/maps/place/BRDS+Pimpri-Chinchwad+-+Best+Coaching+Classes+for+NATA,NID,NIFT,CEED,UCEED+CEPT/@18.6401811,73.7942826,15z/data=!4m5!3m4!1s0x0:0x378349601b22bb9!8m2!3d18.6401811!4d73.7942826"
-                                    class="direction-link" data-location="BRDS Chinchwad, Pune">( Get Direction )</a>
-                            </li>
-                            <li>Viman Nagar <a href="https://goo.gl/maps/M8iGj2PJVaMngXto8" class="direction-link"
-                                    data-location="BRDS Viman Nagar, Pune">( Get Direction )</a></li>
-                            <li>Baner <a href="https://goo.gl/maps/qmwDybSpjkgduKQB9" class="direction-link"
-                                    data-location="BRDS Baner, Pune">( Get Direction )</a></li>
-                            <li>Undri <a href="https://g.co/kgs/NjLLiMW" class="direction-link"
-                                    data-location="BRDS Undri, Pune">( Get Direction )</a></li>
-                            <li>Kothrud <a href="https://share.google/OGKTbBypo2LDeqZKp" class="direction-link"
-                                    data-location="BRDS Kothrud, Pune">( Get Direction )</a></li>
-                            <li>Sinhgad <a href="https://share.google/42KETws24YngH20dB" class="direction-link"
-                                    data-location="BRDS Sinhgad, Pune">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="vadodara">
-                        <h4 class="location-title">VADODARA : 90998 57598</h4>
-                        <ul class="location-list">
-                            <li>Race Course Road <a
-                                    href="https://www.google.co.in/maps/place/Bhanwar+Rathore+Design+Studio+(BRDS)/@22.3119934,73.1563824,17z/data=!3m1!4b1!4m5!3m4!1s0x395fc8bd8a75a7e5:0xed1bf2340509419f!8m2!3d22.3119934!4d73.1585711"
-                                    class="direction-link" data-location="BRDS Race Course Road, Vadodara">( Get
-                                    Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="rajkot">
-                        <h4 class="location-title">RAJKOT : 90998 57598</h4>
-                        <ul class="location-list">
-                            <li>Kalawad Road <a
-                                    href="https://www.google.co.in/maps/place/Bhanwar+Rathore+Design+Studio+(BRDS)/@22.2854215,70.7704422,15z/data=!4m2!3m1!1s0x0:0xf598be6f6255f7f9?sa=X&ved=0ahUKEwjp5PPxrIHWAhUDQ48KHZ2bCC0Q_BIIfjAN"
-                                    class="direction-link" data-location="BRDS Kalawad Road, Rajkot">( Get Direction
-                                    )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="surat">
-                        <h4 class="location-title">SURAT : 90998 57598</h4>
-                        <ul class="location-list">
-                            <li>Athwa <a
-                                    href="https://www.google.com/maps/place/BRDS+Surat+-+India%E2%80%99s+Best+NIFT,+NID+,+NATA,+UCEED,+CEED,+JEE+Arch+Coaching+Classes/@21.1687009,72.7863581,15z/data=!4m5!3m4!1s0x0:0xaf264cda742f8dfc!8m2!3d21.1687009!4d72.7863581"
-                                    class="direction-link" data-location="BRDS Athwa, Surat">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="kolkata">
-                        <h4 class="location-title">KOLKATA : 75678 57598</h4>
-                        <ul class="location-list">
-                            <li>Middleton Street <a href="https://maps.app.goo.gl/gzDxhXEeKG6DKV9z5"
-                                    class="direction-link" data-location="BRDS Middleton Street, Kolkata">( Get
-                                    Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="jaipur">
-                        <h4 class="location-title">JAIPUR : 9727857598</h4>
-                        <ul class="location-list">
-                            <li>Gopalpura <a href="https://g.page/BRDSJaipur?share" class="direction-link"
-                                    data-location="BRDS Gopalpura, Jaipur">( Get Direction )</a></li>
-                            <li>Vaishali Nagar <a href="https://g.page/Brdsvaishalinagar?share" class="direction-link"
-                                    data-location="BRDS Vaishali Nagar, Jaipur">( Get Direction )</a></li>
-                            <li>Malviya Nagar <a href="https://g.co/kgs/Aawaep1" class="direction-link"
-                                    data-location="BRDS Malviya Nagar, Jaipur">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="kerala">
-                        <h4 class="location-title">KERALA : 89807 57598</h4>
-                        <ul class="location-list">
-                            <li>Calicut <a href="https://g.page/r/CTcihUISbeRVEAE" class="direction-link"
-                                    data-location="BRDS Calicut, Kerala">( Get Direction )</a></li>
-                            <li>Kochi <a href="https://goo.gl/maps/bmDZxMXq2Sw7kfhJ9" class="direction-link"
-                                    data-location="BRDS Kochi, Kerala">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="bangalore">
-                        <h4 class="location-title">BANGALORE : 89807 57598</h4>
-                        <ul class="location-list">
-                            <li>Malleswaram <a href="https://g.page/BRDSMalleswaramBagalore?share"
-                                    class="direction-link" data-location="BRDS Malleswaram, Bangalore">( Get Direction
-                                    )</a></li>
-                            <li>Jayanagar <a
-                                    href="https://www.google.co.in/maps/place/BRDS+Bangalore+BTM+Layout+-+NID,NIFT,NATA,CEPT,CEED,UCEED+Coaching/@12.7521757,68.5613528,5z/data=!4m8!1m2!2m1!1sBTM+Layout+brds+bangalore!3m4!1s0x3bae15d03991c727:0x429b288a3f2319a2!8m2!3d12.9199534!4d77.6106518"
-                                    class="direction-link" data-location="BRDS Jayanagar, Bangalore">( Get Direction
-                                    )</a></li>
-                            <li>Indiranagar <a href="https://maps.app.goo.gl/bgb3Ai4GCCgxGN5h8" class="direction-link"
-                                    data-location="BRDS Indiranagar, Bangalore">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="jharkhand">
-                        <h4 class="location-title">JHARKHAND : 9913757598</h4>
-                        <ul class="location-list">
-                            <li>Dhanbad <a href="https://g.page/BRDSDhanbad?share" class="direction-link"
-                                    data-location="BRDS Dhanbad, Jharkhand">( Get Direction )</a></li>
-                            <li>Ranchi <a href="https://goo.gl/maps/JHQL9w3heUMNqbLAA" class="direction-link"
-                                    data-location="BRDS Ranchi, Jharkhand">( Get Direction )</a></li>
-                            <li>Jamshedpur <a href="https://g.page/r/CQ31CWUgj3SQEAE" class="direction-link"
-                                    data-location="BRDS Jamshedpur, Jharkhand">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="indore">
-                        <h4 class="location-title">INDORE : 9727857598</h4>
-                        <ul class="location-list">
-                            <li>Janjeerwala Square <a href="https://goo.gl/maps/1f7RaPLFQeAf22VQ7"
-                                    class="direction-link" data-location="BRDS Janjeerwala Square, Indore">( Get
-                                    Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="chandigarh">
-                        <h4 class="location-title">CHANDIGARH : 9727857598</h4>
-                        <ul class="location-list">
-                            <li>Sector 34-A <a href="https://g.page/BRDSChandigarh?share" class="direction-link"
-                                    data-location="BRDS Sector 34-A, Chandigarh">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="delhi">
-                        <h4 class="location-title">DELHI NCR : 99137 00910</h4>
-                        <ul class="location-list">
-                            <li>Malviya Nagar <a href="https://g.page/r/CaDEkJNHysOBEAE" class="direction-link"
-                                    data-location="BRDS Malviya Nagar, Delhi">( Get Direction )</a></li>
-                            <li>Preet Vihar <a href="https://g.page/r/CRci3Zj1pvMOEAE" class="direction-link"
-                                    data-location="BRDS Preet Vihar, Delhi">( Get Direction )</a></li>
-                            <li>Pitampura <a href="https://g.page/BRDSPitampuraDelhi?share" class="direction-link"
-                                    data-location="BRDS Pitampura, Delhi">( Get Direction )</a></li>
-                            <li>Dwarka <a href="https://goo.gl/maps/S6RcedmndEp3qpov5" class="direction-link"
-                                    data-location="BRDS Dwarka, Delhi">( Get Direction )</a></li>
-                            <li>South Ex-1 <a href="https://g.page/BRDSSouthExtDelhi?share" class="direction-link"
-                                    data-location="BRDS South Ex-1, Delhi">( Get Direction )</a></li>
-                            <li>Karol Bagh <a href="https://goo.gl/maps/jJPAX5RFhYkACWts5" class="direction-link"
-                                    data-location="BRDS Karol Bagh, Delhi">( Get Direction )</a></li>
-                            <li>Janakpuri West <a href="https://goo.gl/maps/6ZDyFz6ECDo3BTMY6" class="direction-link"
-                                    data-location="BRDS Janakpuri West, Delhi">( Get Direction )</a></li>
-                            <li>Ghaziabad <a href="https://goo.gl/maps/15ew3VSCquESPKGC7" class="direction-link"
-                                    data-location="BRDS Ghaziabad, Delhi NCR">( Get Direction )</a></li>
-                            <li>Noida Sector 2 <a href="https://goo.gl/maps/fRQoYFcySnYo2WHr7" class="direction-link"
-                                    data-location="BRDS Noida Sector 2, Delhi NCR">( Get Direction )</a></li>
-                            <li>Greater Noida <a href="https://goo.gl/maps/HJD4YosJTbir2Lg7A" class="direction-link"
-                                    data-location="BRDS Greater Noida, Delhi NCR">( Get Direction )</a></li>
-                            <li>Gurgaon - Sector 14 <a
-                                    href="https://www.google.co.in/maps/place/Bhanwar+Rathore+Design+Studio+(BRDS)/@28.4548283,77.0412384,14.17z/data=!4m12!1m6!3m5!1s0x0:0x5c52922059669701!2sBhanwar+Rathore+Design+Studio+(BRDS)!8m2!3d28.4330057!4d77.0649743!3m4!1s0x0:0x3cbe767a41753182!8m2!3d28.4715301!4d77.046175"
-                                    class="direction-link" data-location="BRDS Gurgaon Sector 14, Delhi NCR">( Get
-                                    Direction )</a></li>
-                            <li>GTB Nagar <a href="https://goo.gl/maps/3GgxogNGa3qYugvd7" class="direction-link"
-                                    data-location="BRDS GTB Nagar, Delhi">( Get Direction )</a></li>
-                            <li>Faridabad <a href="https://goo.gl/maps/mq38qVmCXxrW5m5EA" class="direction-link"
-                                    data-location="BRDS Faridabad, Delhi NCR">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="mumbai">
-                        <h4 class="location-title">MUMBAI : 75060 12398</h4>
-                        <ul class="location-list">
-                            <li>Andheri <a href="https://g.page/BRDSAndheriWestMumbai?share" class="direction-link"
-                                    data-location="BRDS Andheri, Mumbai">( Get Direction )</a></li>
-                            <li>Bandra West <a href="https://g.co/kgs/o7UTchC" class="direction-link"
-                                    data-location="BRDS Bandra West, Mumbai">( Get Direction )</a></li>
-                            <li>Borivali <a href="https://g.page/BRDSBorivaliMumbai?share" class="direction-link"
-                                    data-location="BRDS Borivali, Mumbai">( Get Direction )</a></li>
-                            <li>Charni Road <a href="https://g.page/r/CV0znWYK7PZIEAE" class="direction-link"
-                                    data-location="BRDS Charni Road, Mumbai">( Get Direction )</a></li>
-                            <li>Dadar <a
-                                    href="https://www.google.co.in/maps/place/Bhanwar+Rathore+Design+Studio+(BRDS)/@19.020276,72.8387033,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cec312f5ebf1:0x9b015cb9eb936c7!8m2!3d19.020276!4d72.840892"
-                                    class="direction-link" data-location="BRDS Dadar, Mumbai">( Get Direction )</a></li>
-                            <li>Ghatkopar <a href="https://goo.gl/maps/fzLbFXSb2hVRsTYf6" class="direction-link"
-                                    data-location="BRDS Ghatkopar, Mumbai">( Get Direction )</a></li>
-                            <li>Goregaon West <a href="https://goo.gl/maps/v1ZDjy6xH3z9aFLi8" class="direction-link"
-                                    data-location="BRDS Goregaon West, Mumbai">( Get Direction )</a></li>
-                            <li>Ghodbunder <a href="https://goo.gl/maps/1CvcHkPj4JkT5Dzd6" class="direction-link"
-                                    data-location="BRDS Ghodbunder, Mumbai">( Get Direction )</a></li>
-                            <li>Kalyan <a href="https://goo.gl/maps/5UXK9ifhXC8DhAf26" class="direction-link"
-                                    data-location="BRDS Kalyan, Mumbai">( Get Direction )</a></li>
-                            <li>Kandivali East <a href="https://maps.app.goo.gl/mf3SGW3GvxjcSZaU8"
-                                    class="direction-link" data-location="BRDS Kandivali East, Mumbai">( Get Direction
-                                    )</a></li>
-                            <li>Kharghar <a href="https://maps.app.goo.gl/cEryejcx5PQhLJN4A" class="direction-link"
-                                    data-location="BRDS Kharghar, Mumbai">( Get Direction )</a></li>
-                            <li>Mulund <a href="https://goo.gl/maps/kTKZn24mmcPqE1828" class="direction-link"
-                                    data-location="BRDS Mulund, Mumbai">( Get Direction )</a></li>
-                            <li>Thane <a href="https://goo.gl/maps/y3Msrt1wRV3HqGp18" class="direction-link"
-                                    data-location="BRDS Thane, Mumbai">( Get Direction )</a></li>
-                            <li>Powai <a href="https://maps.app.goo.gl/eHUJGVx9GyKLVq569" class="direction-link"
-                                    data-location="BRDS Powai, Mumbai">( Get Direction )</a></li>
-                            <li>Vasai <a href="https://maps.app.goo.gl/aNkrRqUwoeK2DGLc9" class="direction-link"
-                                    data-location="BRDS Vasai, Mumbai">( Get Direction )</a></li>
-                            <li>Vashi <a href="https://g.page/BRDSVashiNaviMumbai?share" class="direction-link"
-                                    data-location="BRDS Vashi, Mumbai">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="haryana">
-                        <h4 class="location-title">HARYANA : 99137 00910</h4>
-                        <ul class="location-list">
-                            <li>Sonipat <a href="https://goo.gl/maps/PexWwBc8z9jfFAB69" class="direction-link"
-                                    data-location="BRDS Sonipat, Haryana">( Get Direction )</a></li>
-                            <li>Faridabad <a href="https://goo.gl/maps/mq38qVmCXxrW5m5EA" class="direction-link"
-                                    data-location="BRDS Faridabad, Haryana">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="ludhiana">
-                        <h4 class="location-title">LUDHIANA : 9727857598</h4>
-                        <ul class="location-list">
-                            <li>Model Town <a href="https://maps.app.goo.gl/gM7oJ8V4wBo5eTM49" class="direction-link"
-                                    data-location="BRDS Model Town, Ludhiana">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="lucknow">
-                        <h4 class="location-title">LUCKNOW : 75749 57598</h4>
-                        <ul class="location-list">
-                            <li>Hazratganj <a href="https://g.page/brds-lucknow" class="direction-link"
-                                    data-location="BRDS Hazratganj, Lucknow">( Get Direction )</a></li>
-                            <li>Aliganj <a href="https://goo.gl/maps/iX1iquTzSUzjsuLu7" class="direction-link"
-                                    data-location="BRDS Aliganj, Lucknow">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="bhopal">
-                        <h4 class="location-title">BHOPAL : 9727857598</h4>
-                        <ul class="location-list">
-                            <li>M.P. Nagar <a href="https://goo.gl/maps/xLCtJPiCAz5t214P8" class="direction-link"
-                                    data-location="BRDS M.P. Nagar, Bhopal">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="chhattisgarh">
-                        <h4 class="location-title">CHHATTISGARH : 9727857598</h4>
-                        <ul class="location-list">
-                            <li>Raipur <a href="https://goo.gl/maps/FNFcSDR7ygj2bXRw9" class="direction-link"
-                                    data-location="BRDS Raipur, Chhattisgarh">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="uttarakhand">
-                        <h4 class="location-title">UTTARAKHAND : 9727857598</h4>
-                        <ul class="location-list">
-                            <li>Dehradun <a href="https://g.co/kgs/qw9XDS" class="direction-link"
-                                    data-location="BRDS Dehradun, Uttarakhand">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="aurangabad">
-                        <h4 class="location-title">AURANGABAD : 95123 57598</h4>
-                        <ul class="location-list">
-                            <li>Aurangabad <a href="https://goo.gl/maps/yxwhF5yhPPtfTLnr7" class="direction-link"
-                                    data-location="BRDS Aurangabad">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="jodhpur">
-                        <h4 class="location-title">JODHPUR : 9727857598</h4>
-                        <ul class="location-list">
-                            <li>Shastri Nagar <a href="https://maps.app.goo.gl/m23hkxTu3B4iH7kb6" class="direction-link"
-                                    data-location="BRDS Shastri Nagar, Jodhpur">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="akola">
-                        <h4 class="location-title">AKOLA : 9512357598</h4>
-                        <ul class="location-list">
-                            <li>Rautwadi <a href="https://maps.app.goo.gl/1ENw2zNcHMogvstM9" class="direction-link"
-                                    data-location="BRDS Rautwadi, Akola">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="nashik">
-                        <h4 class="location-title">NASHIK : 95123 57598</h4>
-                        <ul class="location-list">
-                            <li>College Road <a href="https://goo.gl/maps/kt8fFbammuyqsdiy6" class="direction-link"
-                                    data-location="BRDS College Road, Nashik">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="solapur">
-                        <h4 class="location-title">SOLAPUR : 95123 57598</h4>
-                        <ul class="location-list">
-                            <li>Saat Rasta, Above Talwalkar's Gym <a href="https://g.page/brdssolapur?gm"
-                                    class="direction-link" data-location="BRDS Saat Rasta, Solapur">( Get Direction
-                                    )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="nagpur">
-                        <h4 class="location-title">NAGPUR : 95123 57598</h4>
-                        <ul class="location-list">
-                            <li>Dharampeth <a href="https://goo.gl/maps/1mB7HtzhjgTe6ZRm6" class="direction-link"
-                                    data-location="BRDS Dharampeth, Nagpur">( Get Direction )</a></li>
-                            <li>Ayodhya Nagar <a href="https://goo.gl/maps/KoC7Wn1HRhDf7nuv7" class="direction-link"
-                                    data-location="BRDS Ayodhya Nagar, Nagpur">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="kanpur">
-                        <h4 class="location-title">KANPUR : 75749 57598</h4>
-                        <ul class="location-list">
-                            <li>Kakadeo <a href="https://g.page/r/Ca77nYeES9zOEBA" class="direction-link"
-                                    data-location="BRDS Kakadeo, Kanpur">( Get Direction )</a></li>
-                            <li>Kidwai Nagar <a href="https://goo.gl/maps/kt4gSJJugVaQhFR27" class="direction-link"
-                                    data-location="BRDS Kidwai Nagar, Kanpur">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="varanasi">
-                        <h4 class="location-title">VARANASI : 7574957598</h4>
-                        <ul class="location-list">
-                            <li>Durgakund <a href="https://goo.gl/maps/5CinUK2SxjAD2bJh8" class="direction-link"
-                                    data-location="BRDS Durgakund, Varanasi">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="chennai">
-                        <h4 class="location-title">CHENNAI : 89807 57598</h4>
-                        <ul class="location-list">
-                            <li>Anna Nagar West <a href="https://maps.app.goo.gl/PszPsxiqWV9jdPH68"
-                                    class="direction-link" data-location="BRDS Anna Nagar West, Chennai">( Get Direction
-                                    )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="hyderabad">
-                        <h4 class="location-title">HYDERABAD : 89807 57598</h4>
-                        <ul class="location-list">
-                            <li>Himayatnagar <a href="https://goo.gl/maps/rq1NxgHftZZYrLaY8" class="direction-link"
-                                    data-location="BRDS Himayatnagar, Hyderabad">( Get Direction )</a></li>
-                            <li>Jubilee Hills <a href="https://maps.app.goo.gl/CtfgU4ighnKtB5349" class="direction-link"
-                                    data-location="BRDS Jubilee Hills, Hyderabad">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-                    <div class="location-block" data-city="dubai">
-                        <h4 class="location-title">DUBAI : +971582554313</h4>
-                        <ul class="location-list">
-                            <li>Dubai <a href="https://maps.app.goo.gl/FfVsk12BziMHW9LC9" class="direction-link"
-                                    data-location="BRDS Dubai">( Get Direction )</a></li>
-                        </ul>
-                    </div>
-<div class="location-block" data-city="patna">
-                        <h4 class="location-title">BIHAR : +919913757598</h4>
-                        <ul class="location-list">
-                            <li>Patna <a href="https://maps.app.goo.gl/y6JLWEEQDSucVrqJA" class="direction-link"
-                                    data-location="BRDS Patna, Bihar">( Get Direction )</a></li>
-                        </ul>
+    <!-- CEED FAQs Section -->
+    <section class="ceed-faq-section pb-5 px-4 pt-0" style="background-color: #f8f9fa;">
+        <div class="container">
+            <div class="section-header  mb-5">
+                <h2 class="section-title" style="color: #e31e24; font-weight: 700;">Frequently Asked Questions about CEED Coaching</h2>
+               
+            </div>
+            <div class="row ">
+                <div class="col-12">
+                    <div class="accordion" id="ceedFaqAccordion">
+                        <div class="accordion-item mb-3 border-0 shadow-sm">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq1" aria-expanded="false" aria-controls="faq1">
+                                    1. What is the CEED Entrance Exam and why is it important?
+                                </button>
+                            </h3>
+                            <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#ceedFaqAccordion">
+                                <div class="accordion-body">
+                                    The CEED is conducted by Indian Institute of Technology Bombay for postgraduate design programs (M.Des). It evaluates advanced design thinking and creativity.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item mb-3 border-0 shadow-sm">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2" aria-expanded="false" aria-controls="faq2">
+                                    2. What is the CEED exam pattern?
+                                </button>
+                            </h3>
+                            <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#ceedFaqAccordion">
+                                <div class="accordion-body">
+                                    CEED includes Part A (objective, computer-based) and Part B (drawing and design questions), focusing on both analytical and creative skills.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item mb-3 border-0 shadow-sm">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3" aria-expanded="false" aria-controls="faq3">
+                                    3. What courses are offered for CEED preparation?
+                                </button>
+                            </h3>
+                            <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#ceedFaqAccordion">
+                                <div class="accordion-body">
+                                    There are advanced foundation, regular, and crash courses, tailored for graduates aiming for design specialization.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item mb-3 border-0 shadow-sm">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4" aria-expanded="false" aria-controls="faq4">
+                                    4. What is included in CEED coaching training?
+                                </button>
+                            </h3>
+                            <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#ceedFaqAccordion">
+                                <div class="accordion-body">
+                                    Coaching includes design thinking, sketching, portfolio guidance, and studio test preparation, along with mock exams.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item mb-3 border-0 shadow-sm">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5" aria-expanded="false" aria-controls="faq5">
+                                    5. Is online CEED coaching effective?
+                                </button>
+                            </h3>
+                            <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#ceedFaqAccordion">
+                                <div class="accordion-body">
+                                    Yes, especially for working professionals. It allows flexible learning with expert mentorship.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item mb-3 border-0 shadow-sm">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq6" aria-expanded="false" aria-controls="faq6">
+                                    6. How does CEED coaching help students succeed?
+                                </button>
+                            </h3>
+                            <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#ceedFaqAccordion">
+                                <div class="accordion-body">
+                                    It provides clarity in design concepts, portfolio building, and exam strategy, which are critical at the postgraduate level.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item mb-3 border-0 shadow-sm">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq7" aria-expanded="false" aria-controls="faq7">
+                                    7. Is BRDS good for CEED preparation in 2026?
+                                </button>
+                            </h3>
+                            <div id="faq7" class="accordion-collapse collapse" data-bs-parent="#ceedFaqAccordion">
+                                <div class="accordion-body">
+                                    BRDS is a strong option due to its focus on advanced design skills and portfolio preparation.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item mb-3 border-0 shadow-sm">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq8" aria-expanded="false" aria-controls="faq8">
+                                    8. Can BRDS help me succeed in CEED 2026?
+                                </button>
+                            </h3>
+                            <div id="faq8" class="accordion-collapse collapse" data-bs-parent="#ceedFaqAccordion">
+                                <div class="accordion-body">
+                                    Yes, through structured guidance, mock tests, and portfolio reviews, students build confidence and readiness.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item mb-3 border-0 shadow-sm">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq9" aria-expanded="false" aria-controls="faq9">
+                                    9. What is the batch size at BRDS coaching?
+                                </button>
+                            </h3>
+                            <div id="faq9" class="accordion-collapse collapse" data-bs-parent="#ceedFaqAccordion">
+                                <div class="accordion-body">
+                                    Batch sizes are moderate, allowing personalized mentoring and feedback on design work.
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <!-- Map preview -->
-            <div class="map-preview" id="mapPreview">
-                <div class="map-preview-header">
-                    <span id="mapPreviewTitle">Location Preview</span>
-                    <span class="map-preview-close" id="mapPreviewClose">&times;</span>
-                </div>
-                <div class="map-preview-content" id="mapPreviewContent">
-                    <p>Hover over a location to see a preview</p>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <div class="footer-links">
-                    <a href="https://rathoredesign.com/nid-coaching-delhi/">NID Coaching in Delhi</a>
-                    <a href="https://rathoredesign.com/nid-coaching-mumbai/?nid">NID Coaching in Mumbai</a>
-                    <a href="https://rathoredesign.com/nid-coaching-pune/?nid">NID Coaching in Pune</a>
-                    <a href="https://rathoredesign.com/nid-coaching-kolkata/">NID Coaching in Kolkata</a>
-                    <a href="https://rathoredesign.com/nid-coaching-ahmedabad/?nid">NID Coaching in Ahmedabad</a>
-                    <a href="https://rathoredesign.com/nid-coaching-vadodara/">NID Coaching in Vadodara</a>
+        </div>
+    </section>
 
-                    <a href="https://rathoredesign.com/nift-coaching-delhi/">NIFT Coaching in Delhi</a>
-                    <a href="https://rathoredesign.com/nift-coaching-mumbai/">NIFT Coaching in Mumbai</a>
-                    <a href="https://rathoredesign.com/nift-coaching-pune/">NIFT Coaching in Pune</a>
-                    <a href="https://rathoredesign.com/nift-coaching-kolkata/">NIFT Coaching in Kolkata</a>
-                    <a href="https://rathoredesign.com/nift-coaching-ahmedabad/">NIFT Coaching in Ahmedabad</a>
-                    <a href="https://rathoredesign.com/nift-coaching-vadodara/">NIFT Coaching in Vadodara</a>
-                    <a href="https://rathoredesign.com/ceed-coaching-classes-delhi/">CEED Coaching in Delhi</a>
-                    <a href="https://rathoredesign.com/ceed-coaching-mumbai/">CEED Coaching in Mumbai</a>
-                    <a href="https://rathoredesign.com/ceed-coaching-pune/">CEED Coaching in Pune</a>
-                </div>
-                <!-- Back to top button -->
-                <div class="back-to-top" id="backToTop">
-                    <i class="fas cus_fa fa-arrow-up"></i>
-                </div>
-            </div>
-        </footer>
+  
+
+     <?php include 'footer.php'; ?>
+<!-- Map preview -->
+    <div class="map-preview" id="mapPreview">
+        <div class="map-preview-header">
+            <span id="mapPreviewTitle">Location Preview</span>
+            <span class="map-preview-close" id="mapPreviewClose">&times;</span>
+        </div>
+        <div class="map-preview-content" id="mapPreviewContent">
+            <p>Hover over a location to see a preview</p>
+        </div>
+    </div>
         <script>
             document.addEventListener('DOMContentLoaded', function () {
                 // Get all direction links
@@ -2552,22 +2349,7 @@
                 footerTitle.style.animation = 'pulse 2s infinite';
             });
         </script>
-        <div class="copyright_sec pt-3 pb-3">
-            <div class="container">
-                <div class="row text-center">
-                    <h6 class="mb-0">Copyright © BRDS 2025. All Rights <a
-                            href="https://www.thedesignvillage.org/course/communication-design-courses-and-interaction-design-courses/"
-                            style="cursor: default; color: inherit; text-decoration: none;">Reserved | <a
-                                href="https://blog.nidcoaching.org/">Blog</a> | <a
-                                href="https://www.facebook.com/rathoredesign"><i
-                                    class="fa-brands fa-square-facebook"></i></a> | <a
-                                href="https://www.instagram.com/brds_india/"><i class="fa-brands fa-instagram"></i></a>
-                            | <a href="https://twitter.com/bhanwarbrds"><i class="fa-brands fa-x-twitter"></i></a> |
-                            <a href="https://www.youtube.com/c/rathoredesignstudio"><i
-                                    class="fa-brands fa-youtube"></i></a></h6>
-                </div>
-            </div>
-        </div>
+       
         <div class="call-button-wrapper">
             <a href="tel:+919825057598" class="call-button">
                 <i class="fas cus_fa fa-phone"></i>
