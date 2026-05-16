@@ -523,15 +523,10 @@ $locations = [
 </footer>
 
 <!-- Copyright bar -->
-<div class="brds-copyright-sec">
-    <p style="margin:0;">
-        Copyright &copy; BRDS <?= $copyright_year ?>. All Rights Reserved |
-         
-        <a href="https://www.facebook.com/rathoredesign" aria-label="Facebook" target="_blank"><i class="fa-brands fa-square-facebook"></i></a> |
-        <a href="https://www.instagram.com/brds_india/" aria-label="Instagram" target="_blank"><i class="fa-brands fa-instagram"></i></a> |
-        <a href="https://twitter.com/bhanwarbrds" aria-label="X / Twitter" target="_blank"><i class="fa-brands fa-x-twitter"></i></a> |
-        <a href="https://www.youtube.com/c/rathoredesignstudio" aria-label="YouTube" target="_blank"><i class="fa-brands fa-youtube"></i></a>
-    </p>
+<div style="background:#1a1a1a;color:#cccccc;text-align:center;padding:14px 20px;font-size:13px;font-family:Arial,sans-serif;letter-spacing:0.3px;">
+  &copy; 2026 &mdash; All Rights Reserved. Website Designed and Developed by
+  <a href="https://stealthdigital.in" target="_blank" rel="noopener noreferrer"
+     style="color:#f5a623;text-decoration:none;font-weight:bold;">Stealth Digital</a>
 </div>
 
 <?php if ($show_call_button) : ?>
@@ -628,8 +623,3 @@ $locations = [
 })();
 </script>
 <!-- ===== BRDS FOOTER — END ===== -->
-<div style="background:#1a1a1a;color:#cccccc;text-align:center;padding:14px 20px;font-size:13px;font-family:Arial,sans-serif;letter-spacing:0.3px;">
-  &copy; 2026 &mdash; All Rights Reserved. Website Designed and Developed by
-  <a href="https://stealthdigital.in" target="_blank" rel="noopener noreferrer"
-     style="color:#f5a623;text-decoration:none;font-weight:bold;">Stealth Digital</a>
-</div>
