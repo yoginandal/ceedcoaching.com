@@ -628,3 +628,8 @@ $locations = [
 })();
 </script>
 <!-- ===== BRDS FOOTER — END ===== -->
+<div style="background:#1a1a1a;color:#cccccc;text-align:center;padding:14px 20px;font-size:13px;font-family:Arial,sans-serif;letter-spacing:0.3px;">
+  &copy; 2026 &mdash; All Rights Reserved. Website Designed and Developed by
+  <a href="https://stealthdigital.in" target="_blank" rel="noopener noreferrer"
+     style="color:#f5a623;text-decoration:none;font-weight:bold;">Stealth Digital</a>
+</div>
